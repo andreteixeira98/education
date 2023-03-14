@@ -1,0 +1,22 @@
+body{
+  width: 100vw;
+  height: 100vh;
+}
+
+a{
+  display: block;
+  height: 10rem;
+  width: 10rem;
+  bottom: 22rem;
+  background-color: blue;
+ 
+  
+}
+
+
+p{
+  
+  height: 10rem;
+  width: 10rem;
+  background-color: red;
+}
