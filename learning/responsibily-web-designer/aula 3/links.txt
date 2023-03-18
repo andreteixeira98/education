@@ -1,0 +1,15 @@
+https://blog.saninternet.com/o-que-e-layout-responsivo
+
+https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Responsive_Design
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps

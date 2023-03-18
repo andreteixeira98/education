@@ -1,0 +1,62 @@
+body {
+    width: 100vw;
+    height: 100vh;
+
+    display: contents;
+    flex-direction: column;
+    justify-content: space-around;
+}
+body .div1 {
+    width: 50rem;
+    
+
+}
+
+body .div2 {
+    width: 50rem;
+    height: 50rem;
+    background-color: yellow;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+body .div2 .iten{
+  width: 5rem;
+  height: 5rem;
+
+  background-color: blue;
+
+
+}
+
+
+@media (min-width: 600px) {
+  body .div1 {
+      background-color: red;
+  }
+
+  body .div2{
+    
+    background-color: rgb(0, 255, 255);
+  
+   
+  }
+
+}
+
+@media (min-width:500px) and (max-width:599px){
+body .div1 {
+  background-color: rgb(9, 255, 0);
+}
+
+body .div2{
+
+background-color: rgb(255, 0, 179);
+
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+
+}
+}
